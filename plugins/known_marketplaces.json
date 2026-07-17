@@ -1,0 +1,50 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\Cybertronia\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-07-15T16:17:48.336Z"
+  },
+  "thedotmack": {
+    "source": {
+      "source": "github",
+      "repo": "thedotmack/claude-mem"
+    },
+    "installLocation": "C:\\Users\\Cybertronia\\.claude\\plugins\\marketplaces\\thedotmack",
+    "lastUpdated": "2026-06-28T21:57:11.293Z"
+  },
+  "caveman": {
+    "source": {
+      "source": "github",
+      "repo": "JuliusBrussee/caveman"
+    },
+    "installLocation": "C:\\Users\\Cybertronia\\.claude\\plugins\\marketplaces\\caveman",
+    "lastUpdated": "2026-06-30T08:07:45.934Z"
+  },
+  "superpowers-marketplace": {
+    "source": {
+      "source": "github",
+      "repo": "obra/superpowers-marketplace"
+    },
+    "installLocation": "C:\\Users\\Cybertronia\\.claude\\plugins\\marketplaces\\superpowers-marketplace",
+    "lastUpdated": "2026-06-29T13:54:11.951Z"
+  },
+  "impeccable": {
+    "source": {
+      "source": "github",
+      "repo": "pbakaus/impeccable"
+    },
+    "installLocation": "C:\\Users\\Cybertronia\\.claude\\plugins\\marketplaces\\impeccable",
+    "lastUpdated": "2026-06-30T17:33:49.417Z"
+  },
+  "ponytail": {
+    "source": {
+      "source": "github",
+      "repo": "DietrichGebert/ponytail"
+    },
+    "installLocation": "C:\\Users\\Cybertronia\\.claude\\plugins\\marketplaces\\ponytail",
+    "lastUpdated": "2026-07-08T18:24:14.476Z"
+  }
+}

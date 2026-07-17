@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Cybertronia\\.claude\\plugins\\cache\\claude-plugins-official\\frontend-design\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-06-28T21:29:57.611Z",
+        "lastUpdated": "2026-07-15T16:17:48.427Z"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Cybertronia\\.claude\\plugins\\cache\\claude-plugins-official\\code-review\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-06-28T21:55:18.398Z",
+        "lastUpdated": "2026-07-15T16:17:48.422Z"
+      }
+    ],
+    "claude-mem@thedotmack": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Cybertronia\\.claude\\plugins\\cache\\thedotmack\\claude-mem\\13.8.1",
+        "version": "13.8.1",
+        "installedAt": "2026-06-28T21:57:23.030Z",
+        "lastUpdated": "2026-06-28T21:57:23.030Z",
+        "gitCommitSha": "3fe0725a97e18b5edf3e61cde60e181ab2b6c997"
+      }
+    ],
+    "caveman@caveman": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Cybertronia\\.claude\\plugins\\cache\\caveman\\caveman\\25d22f864ad6",
+        "version": "25d22f864ad6",
+        "installedAt": "2026-06-28T22:04:13.238Z",
+        "lastUpdated": "2026-06-28T22:04:13.238Z",
+        "gitCommitSha": "25d22f864ad68cc447a4cb93aefde918aa4aec9f"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Cybertronia\\.claude\\plugins\\cache\\claude-plugins-official\\superpowers\\6.1.1",
+        "version": "6.1.1",
+        "installedAt": "2026-06-29T08:52:26.979Z",
+        "lastUpdated": "2026-07-05T13:43:06.804Z",
+        "gitCommitSha": "896224c4b1879920ab573417e68fd51d2ccc9072"
+      }
+    ],
+    "ponytail@ponytail": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Cybertronia\\.claude\\plugins\\cache\\ponytail\\ponytail\\4.8.4",
+        "version": "4.8.4",
+        "installedAt": "2026-07-08T18:24:19.055Z",
+        "lastUpdated": "2026-07-08T18:24:19.055Z",
+        "gitCommitSha": "1b2760d384c44e573a9d8c7a729fac616e5c3a76"
+      }
+    ]
+  }
+}
